@@ -29,7 +29,21 @@ This is an autonomous robot that moves across a solar panel, continuously captur
    - stops and reports maintenance required for damage
 5. Robot position, distance travelled, and predictions are logged continuously for later analysis
 
+
 ## Architecture
+
+![Architecture Diagram](images/architecture/ARCHITECTURE%20DIAGRAM%20.jpeg)
+
+![Workflow Diagram](images/architecture/WORKFLOW%20DIAGRAM.jpeg)
+
+## Output Examples
+
+![Output 1](images/images/outputs/WhatsApp%20Image%202026-06-15%20at%2013.10.45%20(1).jpeg)
+
+![Output 2](images/images/outputs/WhatsApp%20Image%202026-06-15%20at%2013.10.51.jpeg)
+
+![Output 3](images/images/outputs/WhatsApp%20Image%202026-06-15%20at%2013.11.00.jpeg)
+
 
 
 ## Hardware
