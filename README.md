@@ -29,6 +29,9 @@ This is an autonomous robot that moves across a solar panel, continuously captur
    - stops and reports maintenance required for damage
 5. Robot position, distance travelled, and predictions are logged continuously for later analysis
 
+## Architecture
+
+
 ## Hardware
 
 - Raspberry Pi 4B
