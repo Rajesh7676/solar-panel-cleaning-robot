@@ -2,6 +2,13 @@
 
 Selected for KSCST State-Level Exhibition 2025-26, Karnataka State Council for Science and Technology, IISc Bengaluru.
 
+<img width="2129" height="738" alt="image" src="https://github.com/user-attachments/assets/edb9c37a-3c11-4445-9af3-cd0702cf0673" />
+
+
+
+
+
+
 ## Problem
 
 Solar panels lose efficiency over time due to dust accumulation, bird droppings, and physical or electrical damage. Manual inspection across large installations is slow and expensive, and minor damage often goes unnoticed until output drops significantly.
